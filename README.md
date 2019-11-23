@@ -1,4 +1,17 @@
-tessss
+Untuk Cara Instalasinya:
+<br><br>
+1.Download terlebih dahulu <br>
+2.Simpan di xampp/htdoc/holahalocart<br>
+3. Extract <br>
+4. Terdapat file db_holahalo.sql di jajaran .env <br>
+5. Import db_holahalo.sql ke localhost <br>
+6. git bash here pada folder holahalocart <br>
+7. sesuaikan .env dengan konfigurasi pada perangkat masing-masing <br>
+8. jalankan perintah php artisan serve<br>
+------Info--------<br>
+Untuk user semua passwordnya adalah "password" tanpa tanda kutip<br>
+untuk admin emailnya admin@gmail.com <br>
+
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
